@@ -2,7 +2,7 @@
 /* CSS Document */
 
 body,td,th,p{
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: 'Oleo Script', cursive;
 	font-size: 10pt;
 	color: #333;
 	line-height: 1.5;
@@ -13,7 +13,7 @@ body {
 	position:relative;
 }
 ul, li {
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: 'Oleo Script', cursive;
 	font-size: 10pt;
 	color: #333;
 }
@@ -29,7 +29,7 @@ a img{
 	border: none 0px #fff;
 }
 h1, h2, h3, h4, h5, h6 {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Oleo Script', cursive;
   margin: 0 0 20px;
 }
 article, aside, canvas, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
@@ -120,7 +120,7 @@ nav h1 a {
 .filter-options select {
   background-color: white;
   border: 1px solid #fff;
-  font-family: Arial,sans-serif;
+  font-family: 'Oleo Script', cursive;
   font-size: 11pt;
   height: 35px;
   letter-spacing: 0;
@@ -131,7 +131,7 @@ nav h1 a {
 
 /* ====================== Restaurant Listing ====================== */
 #restaurants-list {
-  background-color: #f3f3f3;
+  background-color: #e9dab4;
   list-style: outside none none;
   margin: 0;
   padding: 30px 15px 60px;
@@ -140,7 +140,7 @@ nav h1 a {
 #restaurants-list li {
   background-color: #fff;
   border: 2px solid #ccc;
-  font-family: Arial,sans-serif;
+  font-family: 'Oleo Script', cursive;
   margin: 15px;
   min-height: 380px;
   padding: 0 30px 25px;
@@ -157,7 +157,7 @@ nav h1 a {
 }
 #restaurants-list li h1 {
   color: #f18200;
-  font-family: Arial,sans-serif;
+  font-family: 'Oleo Script', cursive;
   font-size: 14pt;
   font-weight: 200;
   letter-spacing: 0;
@@ -209,7 +209,7 @@ nav h1 a {
 }
 #restaurant-name {
   color: #f18200;
-  font-family: Arial,sans-serif;
+  font-family: 'Oleo Script', cursive;
   font-size: 20pt;
   font-weight: 200;
   letter-spacing: 0;
@@ -258,7 +258,7 @@ nav h1 a {
 }
 #reviews-list li {
   background-color: #fff;
-    border: 2px solid #f3f3f3;
+  border: 2px solid #f3f3f3;
   display: block;
   list-style-type: none;
   margin: 0 0 30px;
